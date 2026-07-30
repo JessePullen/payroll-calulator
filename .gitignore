@@ -1,6 +1,7 @@
 **/*Zone.Identifier
 node_modules
+src/data.js
 
 
 # Removes all ignored files from repo
-# git rm -r --cached . && git add . && git commit -am "Remove ignored files"
+# git rm -r --cached . && git add . && git commit -am "Remove ignored files"`
