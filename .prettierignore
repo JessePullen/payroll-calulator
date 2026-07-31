@@ -2,4 +2,3 @@
 build
 coverage
 eslint.config.mjs
-index.html

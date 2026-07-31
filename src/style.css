@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	font-family: Roboto, sans-serif;
+}
+
+.header {
+	display: flex;
+	justify-content: center;
+	padding: 25px;
+}
+
+.container {
+	height: 75vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    padding: 25px;
+    border-radius: 5px;
+}
