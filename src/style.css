@@ -17,9 +17,22 @@
 }
 
 form {
-    display: flex;
-    flex-direction: column;
-    background-color: lightgray;
-    padding: 25px;
-    border-radius: 5px;
+	display: flex;
+	flex-direction: column;
+	background-color: lightgray;
+	padding: 25px;
+	border-radius: 5px;
+	gap: 10px;
+}
+
+.radio-start,
+.radio-finish {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.start,
+.finish {
+	display: flex;
+	flex-direction: column;
 }
